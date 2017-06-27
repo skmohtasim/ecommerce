@@ -182,10 +182,10 @@ class Repository
 		{
 
 			case "ecommerce":
-				$servername="server179.web-hosting.com";
-				$username="itwojqri_adminu1";
-				$password="JI{5ps@%gNfC";
-				$databaseName="itwojqri_ecommerce";
+				$servername=""; //serverip
+				$username=""; //server username
+				$password="";//server password
+				$databaseName=""; //initial database
 				
 				break;
 			default:
