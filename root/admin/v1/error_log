@@ -1,0 +1,53 @@
+[24-May-2017 09:23:35 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 78
+[24-May-2017 09:24:21 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'itwojqri'@'server179.web-hosting.com' (using password: YES) in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 198
+[24-May-2017 09:24:21 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 78
+[24-May-2017 09:24:21 America/New_York] PHP Warning:  Repository::RetriveData(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 99
+[24-May-2017 09:24:21 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 41
+[24-May-2017 09:26:11 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'itwojqri'@'server179.web-hosting.com' (using password: YES) in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 198
+[24-May-2017 09:26:11 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 78
+[24-May-2017 09:26:11 America/New_York] PHP Warning:  Repository::RetriveData(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 99
+[24-May-2017 09:26:11 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 41
+[24-May-2017 09:28:23 America/New_York] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 198
+[24-May-2017 09:28:23 America/New_York] PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 198
+[24-May-2017 09:28:23 America/New_York] PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=124023 in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 198
+[24-May-2017 09:28:23 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 198
+[24-May-2017 09:28:23 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 78
+[24-May-2017 09:28:23 America/New_York] PHP Warning:  Repository::RetriveData(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 99
+[24-May-2017 09:28:23 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 41
+[24-May-2017 09:29:16 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'itwojqri'@'server179.web-hosting.com' (using password: YES) in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 198
+[24-May-2017 09:29:16 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 78
+[24-May-2017 09:29:16 America/New_York] PHP Warning:  Repository::RetriveData(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 99
+[24-May-2017 09:29:16 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 41
+[24-May-2017 09:34:52 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'itwojqri'@'server179.web-hosting.com' (using password: YES) in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 199
+[24-May-2017 09:34:52 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 78
+[24-May-2017 09:34:52 America/New_York] PHP Warning:  Repository::RetriveData(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 99
+[24-May-2017 09:34:52 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 41
+[24-May-2017 09:35:13 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'itwojqri'@'server179.web-hosting.com' (using password: YES) in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 199
+[24-May-2017 09:35:13 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 78
+[24-May-2017 09:35:13 America/New_York] PHP Warning:  Repository::RetriveData(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 99
+[24-May-2017 09:35:13 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 41
+[24-May-2017 09:37:05 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 200
+[24-May-2017 09:37:05 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 78
+[24-May-2017 09:37:05 America/New_York] PHP Warning:  Repository::RetriveData(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 99
+[24-May-2017 09:37:05 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 41
+[24-May-2017 09:44:09 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/itwojqri/public_html/admin/v1/class/Repository.php on line 78
+[27-May-2017 12:00:48 America/New_York] PHP Fatal error:  Call to a member function RetriveData() on a non-object in /home/itwojqri/public_html/admin/v1/addproduct.php on line 96
+[27-May-2017 12:14:14 America/New_York] PHP Fatal error:  Call to a member function RetriveData() on a non-object in /home/itwojqri/public_html/admin/v1/addproduct.php on line 96
+[27-May-2017 12:21:51 America/New_York] PHP Warning:  Missing argument 2 for UploadImage(), called in /home/itwojqri/public_html/admin/v1/addproduct.php on line 142 and defined in /home/itwojqri/public_html/admin/v1/addproduct.php on line 63
+[27-May-2017 12:24:38 America/New_York] PHP Warning:  Missing argument 2 for UploadImage(), called in /home/itwojqri/public_html/admin/v1/addproduct.php on line 142 and defined in /home/itwojqri/public_html/admin/v1/addproduct.php on line 63
+[03-Jun-2017 06:02:25 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/itwojqri/public_html/admin/v1/viewproducts.php on line 60
+[12-Jun-2017 16:20:36 America/New_York] PHP Warning:  include_once(admin/v1/class/Repository.php): failed to open stream: No such file or directory in /home/itwojqri/dealon.live/admin/v1/index.php on line 41
+[12-Jun-2017 16:20:36 America/New_York] PHP Warning:  include_once(): Failed opening 'admin/v1/class/Repository.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/itwojqri/dealon.live/admin/v1/index.php on line 41
+[12-Jun-2017 16:20:36 America/New_York] PHP Warning:  include_once(admin/v1/Utility.php): failed to open stream: No such file or directory in /home/itwojqri/dealon.live/admin/v1/index.php on line 42
+[12-Jun-2017 16:20:36 America/New_York] PHP Warning:  include_once(): Failed opening 'admin/v1/Utility.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/itwojqri/dealon.live/admin/v1/index.php on line 42
+[12-Jun-2017 16:20:36 America/New_York] PHP Fatal error:  Class 'Repository' not found in /home/itwojqri/dealon.live/admin/v1/index.php on line 43
+[12-Jun-2017 16:20:48 America/New_York] PHP Warning:  include_once(admin/v1/class/Repository.php): failed to open stream: No such file or directory in /home/itwojqri/dealon.live/admin/v1/index.php on line 41
+[12-Jun-2017 16:20:48 America/New_York] PHP Warning:  include_once(): Failed opening 'admin/v1/class/Repository.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/itwojqri/dealon.live/admin/v1/index.php on line 41
+[12-Jun-2017 16:20:48 America/New_York] PHP Warning:  include_once(admin/v1/Utility.php): failed to open stream: No such file or directory in /home/itwojqri/dealon.live/admin/v1/index.php on line 42
+[12-Jun-2017 16:20:48 America/New_York] PHP Warning:  include_once(): Failed opening 'admin/v1/Utility.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/itwojqri/dealon.live/admin/v1/index.php on line 42
+[12-Jun-2017 16:20:48 America/New_York] PHP Fatal error:  Class 'Repository' not found in /home/itwojqri/dealon.live/admin/v1/index.php on line 43
+[12-Jun-2017 16:20:56 America/New_York] PHP Warning:  include_once(admin/v1/class/Repository.php): failed to open stream: No such file or directory in /home/itwojqri/dealon.live/admin/v1/index.php on line 41
+[12-Jun-2017 16:20:56 America/New_York] PHP Warning:  include_once(): Failed opening 'admin/v1/class/Repository.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/itwojqri/dealon.live/admin/v1/index.php on line 41
+[12-Jun-2017 16:20:56 America/New_York] PHP Warning:  include_once(admin/v1/Utility.php): failed to open stream: No such file or directory in /home/itwojqri/dealon.live/admin/v1/index.php on line 42
+[12-Jun-2017 16:20:56 America/New_York] PHP Warning:  include_once(): Failed opening 'admin/v1/Utility.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/itwojqri/dealon.live/admin/v1/index.php on line 42
+[12-Jun-2017 16:20:56 America/New_York] PHP Fatal error:  Class 'Repository' not found in /home/itwojqri/dealon.live/admin/v1/index.php on line 43
